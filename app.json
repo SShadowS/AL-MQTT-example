@@ -1,0 +1,24 @@
+{
+    "id": "1a9f93e0-3515-4259-bbed-9accf62aa152",
+    "name": "MQTT Client",
+    "publisher": "SShadowS",
+    "brief": "",
+    "description": "Simple MQTT proof-of-concept",
+    "version": "1.0.0.0",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "https://blog.sshadows.dk",
+    "logo": "",
+    "capabilities": [],
+    "dependencies": [],
+    "screenshots": [],
+    "platform": "13.0.0.0",
+    "application": "13.0.0.0",
+    "idRange": {
+        "from": 50100,
+        "to": 50149
+    },
+    "runtime": "2.0",
+    "target": "Internal"
+}

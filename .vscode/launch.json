@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "SRV1",
+            "server": "http://srv1",
+            "serverInstance": "BCmedNUP",
+            "authentication": "UserPassword",
+            "startupObjectId": 50101,
+            "startupObjectType": "Page",
+            "breakOnError": true
+        }
+    ]
+}
